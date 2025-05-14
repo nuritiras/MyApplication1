@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "tr.com.nuritiras.myapplication"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "tr.com.nuritiras.myapplication"
-        minSdk = 34
-        targetSdk = 34
+        minSdk = 35
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
